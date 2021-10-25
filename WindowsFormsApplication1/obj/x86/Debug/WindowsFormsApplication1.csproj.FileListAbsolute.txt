@@ -1,0 +1,115 @@
+C:\Users\murat\Desktop\ \3 C# HER ŞEY\İNGİLİZCE SÖZLÜK DEPO\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\murat\Desktop\ \3 C# HER ŞEY\İNGİLİZCE SÖZLÜK DEPO\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\murat\Desktop\ \3 C# HER ŞEY\İNGİLİZCE SÖZLÜK DEPO\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\murat\Desktop\ \3 C# HER ŞEY\İNGİLİZCE SÖZLÜK DEPO\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\murat\Desktop\ \3 C# HER ŞEY\İNGİLİZCE SÖZLÜK DEPO\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form3.resources
+C:\Users\murat\Desktop\ \3 C# HER ŞEY\İNGİLİZCE SÖZLÜK DEPO\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form4.resources
+C:\Users\murat\Desktop\ \3 C# HER ŞEY\İNGİLİZCE SÖZLÜK DEPO\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\murat\Desktop\ \3 C# HER ŞEY\İNGİLİZCE SÖZLÜK DEPO\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\murat\Desktop\ \3 C# HER ŞEY\İNGİLİZCE SÖZLÜK DEPO\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\murat\Desktop\ \3 C# HER ŞEY\İNGİLİZCE SÖZLÜK DEPO\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\murat\Desktop\ \3 C# HER ŞEY\İNGİLİZCE SÖZLÜK DEPO\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\İngilizce Sözlük 2.accdb
+C:\Users\murat\Desktop\ \3 C# HER ŞEY\İNGİLİZCE SÖZLÜK DEPO\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\murat\Desktop\ \3 C# HER ŞEY\İNGİLİZCE SÖZLÜK DEPO\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\murat\Desktop\ \3 C# HER ŞEY\İNGİLİZCE SÖZLÜK DEPO\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form5.resources
+D:\3 YEDEK\ \3 C# HER ŞEY\İNGİLİZCE SÖZLÜK DEPO\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\3 YEDEK\ \3 C# HER ŞEY\İNGİLİZCE SÖZLÜK DEPO\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+D:\3 YEDEK\ \3 C# HER ŞEY\İNGİLİZCE SÖZLÜK DEPO\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+D:\3 YEDEK\ \3 C# HER ŞEY\İNGİLİZCE SÖZLÜK DEPO\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\İngilizce Sözlük 2.accdb
+D:\3 YEDEK\ \3 C# HER ŞEY\İNGİLİZCE SÖZLÜK DEPO\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\3 YEDEK\ \3 C# HER ŞEY\İNGİLİZCE SÖZLÜK DEPO\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\3 YEDEK\ \3 C# HER ŞEY\İNGİLİZCE SÖZLÜK DEPO\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+D:\3 YEDEK\ \3 C# HER ŞEY\İNGİLİZCE SÖZLÜK DEPO\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+D:\3 YEDEK\ \3 C# HER ŞEY\İNGİLİZCE SÖZLÜK DEPO\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form2.resources
+D:\3 YEDEK\ \3 C# HER ŞEY\İNGİLİZCE SÖZLÜK DEPO\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form3.resources
+D:\3 YEDEK\ \3 C# HER ŞEY\İNGİLİZCE SÖZLÜK DEPO\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form4.resources
+D:\3 YEDEK\ \3 C# HER ŞEY\İNGİLİZCE SÖZLÜK DEPO\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form5.resources
+D:\3 YEDEK\ \3 C# HER ŞEY\İNGİLİZCE SÖZLÜK DEPO\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\3 YEDEK\ \3 C# HER ŞEY\İNGİLİZCE SÖZLÜK DEPO\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\murat\Desktop\ \3 C# HER ŞEY\1 PROJELERİM\İNGİLİZCE SÖZLÜK DEPO\KENDİME\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\murat\Desktop\ \3 C# HER ŞEY\1 PROJELERİM\İNGİLİZCE SÖZLÜK DEPO\KENDİME\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\murat\Desktop\ \3 C# HER ŞEY\1 PROJELERİM\İNGİLİZCE SÖZLÜK DEPO\KENDİME\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\murat\Desktop\ \3 C# HER ŞEY\1 PROJELERİM\İNGİLİZCE SÖZLÜK DEPO\KENDİME\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\İngilizce Sözlük 2.accdb
+C:\Users\murat\Desktop\ \3 C# HER ŞEY\1 PROJELERİM\İNGİLİZCE SÖZLÜK DEPO\KENDİME\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\murat\Desktop\ \3 C# HER ŞEY\1 PROJELERİM\İNGİLİZCE SÖZLÜK DEPO\KENDİME\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\murat\Desktop\ \3 C# HER ŞEY\1 PROJELERİM\İNGİLİZCE SÖZLÜK DEPO\KENDİME\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\murat\Desktop\ \3 C# HER ŞEY\1 PROJELERİM\İNGİLİZCE SÖZLÜK DEPO\KENDİME\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\murat\Desktop\ \3 C# HER ŞEY\1 PROJELERİM\İNGİLİZCE SÖZLÜK DEPO\KENDİME\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\murat\Desktop\ \3 C# HER ŞEY\1 PROJELERİM\İNGİLİZCE SÖZLÜK DEPO\KENDİME\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form3.resources
+C:\Users\murat\Desktop\ \3 C# HER ŞEY\1 PROJELERİM\İNGİLİZCE SÖZLÜK DEPO\KENDİME\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form4.resources
+C:\Users\murat\Desktop\ \3 C# HER ŞEY\1 PROJELERİM\İNGİLİZCE SÖZLÜK DEPO\KENDİME\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form5.resources
+C:\Users\murat\Desktop\ \3 C# HER ŞEY\1 PROJELERİM\İNGİLİZCE SÖZLÜK DEPO\KENDİME\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\murat\Desktop\ \3 C# HER ŞEY\1 PROJELERİM\İNGİLİZCE SÖZLÜK DEPO\KENDİME\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+M:\YEDEK\2 C#\1 BÜYÜK PROJELERİM\3 İNGİLİZCE SÖZLÜK DEPO\2 KENDİME\VOCABULARY V1.0\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+M:\YEDEK\2 C#\1 BÜYÜK PROJELERİM\3 İNGİLİZCE SÖZLÜK DEPO\2 KENDİME\VOCABULARY V1.0\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+M:\YEDEK\2 C#\1 BÜYÜK PROJELERİM\3 İNGİLİZCE SÖZLÜK DEPO\2 KENDİME\VOCABULARY V1.0\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+M:\YEDEK\2 C#\1 BÜYÜK PROJELERİM\3 İNGİLİZCE SÖZLÜK DEPO\2 KENDİME\VOCABULARY V1.0\WindowsFormsApplication1\bin\Debug\İngilizce Sözlük 2.accdb
+M:\YEDEK\2 C#\1 BÜYÜK PROJELERİM\3 İNGİLİZCE SÖZLÜK DEPO\2 KENDİME\VOCABULARY V1.0\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+M:\YEDEK\2 C#\1 BÜYÜK PROJELERİM\3 İNGİLİZCE SÖZLÜK DEPO\2 KENDİME\VOCABULARY V1.0\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+M:\YEDEK\2 C#\1 BÜYÜK PROJELERİM\3 İNGİLİZCE SÖZLÜK DEPO\2 KENDİME\VOCABULARY V1.0\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+M:\YEDEK\2 C#\1 BÜYÜK PROJELERİM\3 İNGİLİZCE SÖZLÜK DEPO\2 KENDİME\VOCABULARY V1.0\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+M:\YEDEK\2 C#\1 BÜYÜK PROJELERİM\3 İNGİLİZCE SÖZLÜK DEPO\2 KENDİME\VOCABULARY V1.0\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form2.resources
+M:\YEDEK\2 C#\1 BÜYÜK PROJELERİM\3 İNGİLİZCE SÖZLÜK DEPO\2 KENDİME\VOCABULARY V1.0\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form3.resources
+M:\YEDEK\2 C#\1 BÜYÜK PROJELERİM\3 İNGİLİZCE SÖZLÜK DEPO\2 KENDİME\VOCABULARY V1.0\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form4.resources
+M:\YEDEK\2 C#\1 BÜYÜK PROJELERİM\3 İNGİLİZCE SÖZLÜK DEPO\2 KENDİME\VOCABULARY V1.0\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form5.resources
+M:\YEDEK\2 C#\1 BÜYÜK PROJELERİM\3 İNGİLİZCE SÖZLÜK DEPO\2 KENDİME\VOCABULARY V1.0\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+M:\YEDEK\2 C#\1 BÜYÜK PROJELERİM\3 İNGİLİZCE SÖZLÜK DEPO\2 KENDİME\VOCABULARY V1.0\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+F:\x\1 MURAT\4 YAZILIM\1 C# PROGRAMLAMA\1 PROJELER 1\2 C# GÖRSEL PROGRAMLAMA\1 BİTMİŞ PROJELER\2 İNGİLİZCE SÖZLÜK DEPO\1 KENDİME\VOCABULARY V1.0\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+F:\x\1 MURAT\4 YAZILIM\1 C# PROGRAMLAMA\1 PROJELER 1\2 C# GÖRSEL PROGRAMLAMA\1 BİTMİŞ PROJELER\2 İNGİLİZCE SÖZLÜK DEPO\1 KENDİME\VOCABULARY V1.0\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+F:\x\1 MURAT\4 YAZILIM\1 C# PROGRAMLAMA\1 PROJELER 1\2 C# GÖRSEL PROGRAMLAMA\1 BİTMİŞ PROJELER\2 İNGİLİZCE SÖZLÜK DEPO\1 KENDİME\VOCABULARY V1.0\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+J:\x\1 MURAT\4 YAZILIM\1 C# PROGRAMLAMA\1 PROJELER 1\2 C# GÖRSEL PROGRAMLAMA\1 BİTMİŞ PROJELER\2 İNGİLİZCE SÖZLÜK DEPO\1 KENDİME\VOCABULARY V1.0\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+J:\x\1 MURAT\4 YAZILIM\1 C# PROGRAMLAMA\1 PROJELER 1\2 C# GÖRSEL PROGRAMLAMA\1 BİTMİŞ PROJELER\2 İNGİLİZCE SÖZLÜK DEPO\1 KENDİME\VOCABULARY V1.0\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+J:\x\1 MURAT\4 YAZILIM\1 C# PROGRAMLAMA\1 PROJELER 1\2 C# GÖRSEL PROGRAMLAMA\1 BİTMİŞ PROJELER\2 İNGİLİZCE SÖZLÜK DEPO\1 KENDİME\VOCABULARY V1.0\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+J:\x\1 MURAT\4 YAZILIM\1 C# PROGRAMLAMA\1 PROJELER 1\2 C# GÖRSEL PROGRAMLAMA\1 BİTMİŞ PROJELER\2 İNGİLİZCE SÖZLÜK DEPO\1 KENDİME\VOCABULARY V1.0\WindowsFormsApplication1\bin\Debug\İngilizce Sözlük 2.accdb
+J:\x\1 MURAT\4 YAZILIM\1 C# PROGRAMLAMA\1 PROJELER 1\2 C# GÖRSEL PROGRAMLAMA\1 BİTMİŞ PROJELER\2 İNGİLİZCE SÖZLÜK DEPO\1 KENDİME\VOCABULARY V1.0\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+J:\x\1 MURAT\4 YAZILIM\1 C# PROGRAMLAMA\1 PROJELER 1\2 C# GÖRSEL PROGRAMLAMA\1 BİTMİŞ PROJELER\2 İNGİLİZCE SÖZLÜK DEPO\1 KENDİME\VOCABULARY V1.0\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+J:\x\1 MURAT\4 YAZILIM\1 C# PROGRAMLAMA\1 PROJELER 1\2 C# GÖRSEL PROGRAMLAMA\1 BİTMİŞ PROJELER\2 İNGİLİZCE SÖZLÜK DEPO\1 KENDİME\VOCABULARY V1.0\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+J:\x\1 MURAT\4 YAZILIM\1 C# PROGRAMLAMA\1 PROJELER 1\2 C# GÖRSEL PROGRAMLAMA\1 BİTMİŞ PROJELER\2 İNGİLİZCE SÖZLÜK DEPO\1 KENDİME\VOCABULARY V1.0\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+J:\x\1 MURAT\4 YAZILIM\1 C# PROGRAMLAMA\1 PROJELER 1\2 C# GÖRSEL PROGRAMLAMA\1 BİTMİŞ PROJELER\2 İNGİLİZCE SÖZLÜK DEPO\1 KENDİME\VOCABULARY V1.0\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form2.resources
+J:\x\1 MURAT\4 YAZILIM\1 C# PROGRAMLAMA\1 PROJELER 1\2 C# GÖRSEL PROGRAMLAMA\1 BİTMİŞ PROJELER\2 İNGİLİZCE SÖZLÜK DEPO\1 KENDİME\VOCABULARY V1.0\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form3.resources
+J:\x\1 MURAT\4 YAZILIM\1 C# PROGRAMLAMA\1 PROJELER 1\2 C# GÖRSEL PROGRAMLAMA\1 BİTMİŞ PROJELER\2 İNGİLİZCE SÖZLÜK DEPO\1 KENDİME\VOCABULARY V1.0\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form4.resources
+J:\x\1 MURAT\4 YAZILIM\1 C# PROGRAMLAMA\1 PROJELER 1\2 C# GÖRSEL PROGRAMLAMA\1 BİTMİŞ PROJELER\2 İNGİLİZCE SÖZLÜK DEPO\1 KENDİME\VOCABULARY V1.0\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form5.resources
+J:\x\1 MURAT\4 YAZILIM\1 C# PROGRAMLAMA\1 PROJELER 1\2 C# GÖRSEL PROGRAMLAMA\1 BİTMİŞ PROJELER\2 İNGİLİZCE SÖZLÜK DEPO\1 KENDİME\VOCABULARY V1.0\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+J:\x\1 MURAT\4 YAZILIM\1 C# PROGRAMLAMA\1 PROJELER 1\2 C# GÖRSEL PROGRAMLAMA\1 BİTMİŞ PROJELER\2 İNGİLİZCE SÖZLÜK DEPO\1 KENDİME\VOCABULARY V1.0\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+H:\x\1 Murat\4 Yazılım\1 C# Programlama\1 Projeler\2 İngilizce Sözlük Depo\1 KENDİME\VOCABULARY V1.0\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+H:\x\1 Murat\4 Yazılım\1 C# Programlama\1 Projeler\2 İngilizce Sözlük Depo\1 KENDİME\VOCABULARY V1.0\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+H:\x\1 Murat\4 Yazılım\1 C# Programlama\1 Projeler\2 İngilizce Sözlük Depo\1 KENDİME\VOCABULARY V1.0\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+H:\x\1 Murat\4 Yazılım\1 C# Programlama\1 Projeler\2 İngilizce Sözlük Depo\1 KENDİME\VOCABULARY V1.0\WindowsFormsApplication1\bin\Debug\İngilizce Sözlük 2.accdb
+H:\x\1 Murat\4 Yazılım\1 C# Programlama\1 Projeler\2 İngilizce Sözlük Depo\1 KENDİME\VOCABULARY V1.0\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+H:\x\1 Murat\4 Yazılım\1 C# Programlama\1 Projeler\2 İngilizce Sözlük Depo\1 KENDİME\VOCABULARY V1.0\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+H:\x\1 Murat\4 Yazılım\1 C# Programlama\1 Projeler\2 İngilizce Sözlük Depo\1 KENDİME\VOCABULARY V1.0\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+H:\x\1 Murat\4 Yazılım\1 C# Programlama\1 Projeler\2 İngilizce Sözlük Depo\1 KENDİME\VOCABULARY V1.0\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+H:\x\1 Murat\4 Yazılım\1 C# Programlama\1 Projeler\2 İngilizce Sözlük Depo\1 KENDİME\VOCABULARY V1.0\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form2.resources
+H:\x\1 Murat\4 Yazılım\1 C# Programlama\1 Projeler\2 İngilizce Sözlük Depo\1 KENDİME\VOCABULARY V1.0\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form3.resources
+H:\x\1 Murat\4 Yazılım\1 C# Programlama\1 Projeler\2 İngilizce Sözlük Depo\1 KENDİME\VOCABULARY V1.0\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form4.resources
+H:\x\1 Murat\4 Yazılım\1 C# Programlama\1 Projeler\2 İngilizce Sözlük Depo\1 KENDİME\VOCABULARY V1.0\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+H:\x\1 Murat\4 Yazılım\1 C# Programlama\1 Projeler\2 İngilizce Sözlük Depo\1 KENDİME\VOCABULARY V1.0\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+G:\03 - Cloud\05 - Github - Akademi\06 - C# Ücretli Projeler\10 - Vocabulary V1.0\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+G:\03 - Cloud\05 - Github - Akademi\06 - C# Ücretli Projeler\10 - Vocabulary V1.0\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+G:\03 - Cloud\05 - Github - Akademi\06 - C# Ücretli Projeler\10 - Vocabulary V1.0\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+G:\03 - Cloud\05 - Github - Akademi\06 - C# Ücretli Projeler\10 - Vocabulary V1.0\WindowsFormsApplication1\bin\Debug\İngilizce Sözlük 2.accdb
+G:\03 - Cloud\05 - Github - Akademi\06 - C# Ücretli Projeler\10 - Vocabulary V1.0\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+G:\03 - Cloud\05 - Github - Akademi\06 - C# Ücretli Projeler\10 - Vocabulary V1.0\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+G:\03 - Cloud\05 - Github - Akademi\06 - C# Ücretli Projeler\10 - Vocabulary V1.0\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+G:\03 - Cloud\05 - Github - Akademi\06 - C# Ücretli Projeler\10 - Vocabulary V1.0\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+G:\03 - Cloud\05 - Github - Akademi\06 - C# Ücretli Projeler\10 - Vocabulary V1.0\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form2.resources
+G:\03 - Cloud\05 - Github - Akademi\06 - C# Ücretli Projeler\10 - Vocabulary V1.0\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form3.resources
+G:\03 - Cloud\05 - Github - Akademi\06 - C# Ücretli Projeler\10 - Vocabulary V1.0\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form4.resources
+G:\03 - Cloud\05 - Github - Akademi\06 - C# Ücretli Projeler\10 - Vocabulary V1.0\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+G:\03 - Cloud\05 - Github - Akademi\06 - C# Ücretli Projeler\10 - Vocabulary V1.0\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+G:\03 - Cloud\05 - Github - Akademi\06 - C# Ücretli Projeler\08 - CODIA Worrdyy v1.0.0\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+G:\03 - Cloud\05 - Github - Akademi\06 - C# Ücretli Projeler\08 - CODIA Worrdyy v1.0.0\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+G:\03 - Cloud\05 - Github - Akademi\06 - C# Ücretli Projeler\08 - CODIA Worrdyy v1.0.0\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+G:\03 - Cloud\05 - Github - Akademi\06 - C# Ücretli Projeler\08 - CODIA Worrdyy v1.0.0\WindowsFormsApplication1\bin\Debug\İngilizce Sözlük 2.accdb
+G:\03 - Cloud\05 - Github - Akademi\06 - C# Ücretli Projeler\08 - CODIA Worrdyy v1.0.0\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+G:\03 - Cloud\05 - Github - Akademi\06 - C# Ücretli Projeler\08 - CODIA Worrdyy v1.0.0\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+G:\03 - Cloud\05 - Github - Akademi\06 - C# Ücretli Projeler\08 - CODIA Worrdyy v1.0.0\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+G:\03 - Cloud\05 - Github - Akademi\06 - C# Ücretli Projeler\08 - CODIA Worrdyy v1.0.0\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+G:\03 - Cloud\05 - Github - Akademi\06 - C# Ücretli Projeler\08 - CODIA Worrdyy v1.0.0\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form2.resources
+G:\03 - Cloud\05 - Github - Akademi\06 - C# Ücretli Projeler\08 - CODIA Worrdyy v1.0.0\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form3.resources
+G:\03 - Cloud\05 - Github - Akademi\06 - C# Ücretli Projeler\08 - CODIA Worrdyy v1.0.0\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form4.resources
+G:\03 - Cloud\05 - Github - Akademi\06 - C# Ücretli Projeler\08 - CODIA Worrdyy v1.0.0\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+G:\03 - Cloud\05 - Github - Akademi\06 - C# Ücretli Projeler\08 - CODIA Worrdyy v1.0.0\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+G:\03 - Cloud\05 - Github - Akademi\06 - C# Ücretli Projeler\08 - CODIA Vocable GL 1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+G:\03 - Cloud\05 - Github - Akademi\06 - C# Ücretli Projeler\08 - CODIA Vocable GL 1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+G:\03 - Cloud\05 - Github - Akademi\06 - C# Ücretli Projeler\08 - CODIA Vocable GL 1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
